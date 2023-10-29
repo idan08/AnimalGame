@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AnimalGame.addAnimal" Collapsed="true">
+    <Position X="14.25" Y="1.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AUAAAiAAACIABAAAAAGAACCCAAAAgAAAAAARAQAAAUE=</HashCode>
+      <FileName>addAnimal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalGame.PetEventArgs" Collapsed="true">
+    <Position X="16" Y="2.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>addAnimal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalGame.Animal" Collapsed="true">
+    <Position X="6" Y="1.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>QAAUBEABlAAAQAiIAAQmAEAAARAFQADEAAAEiGAIaAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalGame.Bird" Collapsed="true">
+    <Position X="7.25" Y="4" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAIAAQAAAAAQACAAIAACAAAAAAAAQA=</HashCode>
+      <FileName>Bird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalGame.Cat" Collapsed="true">
+    <Position X="2" Y="4" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAIAAQAAQAAAAiAAAAAAAAAEBAAAAA=</HashCode>
+      <FileName>Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalGame.Dog" Collapsed="true">
+    <Position X="5" Y="4" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAACAAAAAAIAAQSAAAAAACAAAAAgAAQAAAAAAA=</HashCode>
+      <FileName>Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalGame.Form1" Collapsed="true">
+    <Position X="16" Y="1.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAQCBgDhROQiRgBCACAgCAKJggBCIBhCgAAIABGo=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalGame.Fox" Collapsed="true">
+    <Position X="9.5" Y="4" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAEAEEAIQAQAgAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalGame.Horse" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAIAAQAAIAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Horse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalGame.Human" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAIEAQAAAAAAAAQAQABAAAAAAAAAAA=</HashCode>
+      <FileName>Human.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalGame.Meter" Collapsed="true">
+    <Position X="17.75" Y="1.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAACABCAAAAAAAAAAAAAABAAARAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Meter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalGame.myAnimals" Collapsed="true">
+    <Position X="14.25" Y="2.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>myAnimals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalGame.Pet" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>QBCBAAgCJAAAxUAgCAQAAAUAAACAAAACIABUAAAAAAA=</HashCode>
+      <FileName>Pet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalGame.Program" Collapsed="true">
+    <Position X="17.75" Y="2.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalGame.Properties.Resources" Collapsed="true">
+    <Position X="14.25" Y="3.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>BCAAAABAEAAIEAQAAAAhEhAgARAEABAAgCgCAAgAIIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalGame.Properties.Settings" Collapsed="true">
+    <Position X="16" Y="3.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
